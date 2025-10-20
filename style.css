@@ -68,6 +68,8 @@ p{
     margin-right: auto;
     text-align: justify;
     line-height: 200%;
+    font-weight:normal;
+    font-size:16px;
 }
 h1{
     color: rgb(255, 255, 255);
@@ -160,4 +162,5 @@ iframe{
 
 ul li:nth-child(odd){
 background-color: rgb(253, 132, 52);
+
 }
